@@ -19,11 +19,11 @@
     "@angular/platform-browser": "~14.1.1",
     "@angular/platform-browser-dynamic": "~14.1.1",
     "@angular/router": "~14.1.1",
-    "ngx-joystick": "file:./dist/ngx-joystick",
-    "nipplejs": "^0.9.1",
+    "nipplejs": "0.9.0",
     "rxjs": "~7.5.6",
     "tslib": "^2.4.0",
-    "zone.js": "~0.11.7"
+    "zone.js": "~0.11.7",
+    "ngx-joystick": "https://gitpkg.now.sh/andreas-fahrecker/ngx-joystick/dist/ngx-joystick?built-dist"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~14.1.1",
