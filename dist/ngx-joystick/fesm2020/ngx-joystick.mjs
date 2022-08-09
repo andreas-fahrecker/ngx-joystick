@@ -134,10 +134,6 @@ i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "14.1.1", ngImpor
                 }]
         }] });
 
-/*
- * Public API Surface of ngx-joystick
- */
-
 /**
  * Generated bundle index. Do not edit.
  */
